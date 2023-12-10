@@ -9,4 +9,4 @@ const list = ["a", "b", "c"];
 
 for (let i = 0;i < list.length;i++) {
     console.log(list[i])
-}
+} // OF等で代替え出来るがそれは 11章で
