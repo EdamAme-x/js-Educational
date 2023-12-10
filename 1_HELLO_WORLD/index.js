@@ -11,4 +11,4 @@ console.log("Hello World!");
 これでコメントが書ける
 応用でjsdocってのもあるけどまたあとで
 */
-// 
+//

@@ -13,7 +13,17 @@ console.log(text); // こんにちは！
 
 console.log(text2); // おやすみ！
 
+//const
+
 const kawano = "kawanosouta";
 console.log(kawano);
 
-// good let も使ってみて
+// let
+
+let invite = "https://discord.gg/ctkp";
+invite = "https://discord.gg/ctkpaarr";
+
+console.log(invite);
+
+let suuji = 19132 + 25565;
+console.log(suuji);
