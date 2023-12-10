@@ -9,11 +9,11 @@ if (b !== c && a) {
   console.log("hey!");
 }
 
-const d = "おは"
-const e = "おや"
+const d = "おは";
+const e = "おや";
 
 if (d !== e) {
-    console.log("こん")
+  console.log("こん");
 }
 
 // hey!
