@@ -251,3 +251,48 @@ No
 
 これが `1 !== 2`ならtrue
 
+次は複数の式
+
+```js
+if ((2 > 1) && (3 > 1)) {
+    console.log("hi!")
+}
+```
+
+どうなる？
+`hi!`
+
+正解
+
+`&&`は二つの式がどっちもtrueならtrue
+
+```js
+if (2 > 1 || 0 > 1) {
+  console.log("hi!")
+}else {
+  console.log("hey!")
+}
+```
+
+どうなる？
+`hi!`
+正解
+
+`||` はどっちかがtrueなら
+どっちかにfalseがあろうがtrue
+どっちもfalseならfalse
+
+練習
+
+```js
+if (2 > 1 || ((3 > 1) && (1 !== 2))) {
+    console.log('hi!')
+}else {
+    console.log('hey!')
+}
+```
+
+`hi!`
+正解！
+
+じゃあコード
