@@ -3,5 +3,5 @@ denoもbunもほぼ同じ。
 nodejsよりもdenoの方がパフォーマンスが良い
 お
 
-*What is Javascript* はこちら
+_What is Javascript_ はこちら
 [https://www.akkodis.co.jp/candidate/insight/column_29](https://www.akkodis.co.jp/candidate/insight/column_29)
