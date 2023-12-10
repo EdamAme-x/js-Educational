@@ -1,5 +1,8 @@
-# nodejs-Educational
+# js-Educational
 Nodejs教育用repo (といいながらdeno使ってる)
+NodeJSというか Javascript教育用
+超基本的な所を解説してます
+他の言語にも通じます
 
 {何番目のレッスンか}_{レッスン名}
 
