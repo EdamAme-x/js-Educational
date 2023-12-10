@@ -295,4 +295,4 @@ if (2 > 1 || ((3 > 1) && (1 !== 2))) {
 `hi!`
 正解！
 
-じゃあコード
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for
